@@ -45,11 +45,8 @@
 
 ## Authors
 
-* **Belgin Android** - *All Works* - [Belgin Android](https://github.com/Belgin-Android)
+* **Sajal Gupta** 
 
-## Issues ?
-
-* Contact Me At [Instagram](https://www.instagram.com/letonations/)
 
 ## Acknowledgments
 
